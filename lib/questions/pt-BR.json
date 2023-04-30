@@ -706,5 +706,35 @@
     "response": "193",
     "explanation": "Conforme a classificação da Organização das Nações Unidas (ONU), há atualmente 193 países no mundo, que são reconhecidos diplomaticamente de forma ampla pelas diversas instituições mundiais.",
     "font": "https://mundoeducacao.uol.com.br/geografia/paises.htm"
+  },
+  {
+    "question": "qual é a capital da inglaterra?",
+    "response": "londres",
+    "explanation": "Londres é a capital e maior cidade da Inglaterra e do Reino Unido.",
+    "font": "https://pt.wikipedia.org/wiki/Londres"
+  },
+  {
+    "question": "qual é o número atômico do carbono?",
+    "response": "6",
+    "explanation": "O número atômico do carbono é 6, o que significa que ele tem 6 prótons em seu núcleo.",
+    "font": "https://pt.wikipedia.org/wiki/Carbono"
+  },
+  {
+    "question": "qual é o nome do menor continente do mundo?",
+    "response": "oceania",
+    "explanation": "A Oceania é considerada o menor continente do mundo, com cerca de 8,5 milhões de km².",
+    "font": "https://pt.wikipedia.org/wiki/Oceania"
+  },
+  {
+    "question": "qual é a velocidade da luz?",
+    "response": "299.792.458m/s",
+    "explanation": "A velocidade da luz no vácuo é de aproximadamente 299.792.458 metros por segundo.",
+    "font": "https://pt.wikipedia.org/wiki/Velocidade_da_luz"
+  },
+  {
+    "question": "Qual é o nome da personagem principal da série \"Friends\"?",
+    "response": "rachel green",
+    "explanation": "Rachel Green é uma das personagens principais da série de televisão americana 'Friends'.",
+    "font": "https://pt.wikipedia.org/wiki/Friends"
   }
 ]
