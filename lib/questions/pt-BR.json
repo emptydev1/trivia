@@ -32,7 +32,7 @@
   {
     "question": "Qual é o nome da famosa pintura de Leonardo da Vinci que mostra uma mulher sorridente?",
     "response": "monalisa",
-    "explanation": null,
+    "explanation": "",
     "font": "https://www.louvre.fr/en/oeuvre-notices/mona-lisa-portrait-lisa-gherardini-wife-francesco-del-giocondo"
   },
   {
@@ -50,7 +50,7 @@
   {
     "question": "Qual é o nome do personagem principal da série de filmes \"Star Wars\"?",
     "response": "luke skywalker",
-    "explanation": null,
+    "explanation": "",
     "font": "https://www.starwars.com/databank/luke-skywalker"
   },
   {
@@ -68,7 +68,7 @@
   {
     "question": "Qual é o nome do famoso detetive criado por Arthur Conan Doyle?",
     "response": "sherlock holmes",
-    "explanation": null,
+    "explanation": "",
     "font": "https://www.arthurconandoyle.com/sherlock-holmes/"
   },
   {
@@ -267,7 +267,7 @@
     "question": "Qual é o nome do famoso busto que é um dos símbolos da civilização egípcia?",
     "response": "a máscara mortuária de tutancâmon",
     "explanation": "A máscara mortuária de Tutancâmon é o famoso busto que é um dos símbolos mais reconhecidos da civilização egípcia, e é considerada uma das obras de arte mais importantes do Antigo Egito.",
-    "font": null
+    "font": ""
   },
   {
     "question": "Qual é o nome da famosa obra de William Shakespeare que conta a história do príncipe da Dinamarca?",
@@ -502,5 +502,209 @@
     "response": "bernard arnault",
     "explanation": "Bernard Arnault está no topo da lista dos homens mais ricos do mundo, com um patrimônio acumulado de US$ 190.9 bilhões.",
     "font": "https://riconnect.rico.com.vc/blog/homens-mais-ricos-mundo/"
+  },
+  {
+    "question": "Qual é a capital do México?",
+    "response": "cidade do néxico",
+    "explanation": "A Cidade do México é a capital do México e a cidade mais populosa do país.",
+    "font": "https://www.visitmexico.com/pt/cidade-do-mexico"
+  },
+  {
+    "question": "Quantos elementos químicos existem?",
+    "response": "118",
+    "explanation": "Existem 118 elementos químicos conhecidos atualmente.",
+    "font": "https://www.britannica.com/science/chemical-element"
+  },
+  {
+    "question": "Qual é o primeiro número primo?",
+    "response": "2",
+    "explanation": "2 é o primeiro número primo, e é o único número par que é primo.",
+    "font": "https://www.britannica.com/topic/prime-number"
+  },
+  {
+    "question": "Qual é o nome da estátua da liberdade?",
+    "response": "a liberdade iluminando o mundo",
+    "explanation": "O nome oficial da Estátua da Liberdade é \"A liberdade iluminando o mundo\".",
+    "font": "https://www.nps.gov/stli/planyourvisit/faq.htm"
+  },
+  {
+    "question": "Qual é o nome do criador do Facebook?",
+    "response": "mark zuckerberg",
+    "explanation": "Mark Zuckerberg é o criador do Facebook e um dos mais jovens bilionários do mundo.",
+    "font": "https://www.biography.com/business-figure/mark-zuckerberg"
+  },
+  {
+    "question": "Qual é o nome do rio mais longo do mundo?",
+    "response": "nilo",
+    "explanation": "O Nilo é o rio mais longo do mundo com cerca de 6.650 km de comprimento.",
+    "font": "https://www.nationalgeographic.com/environment/freshwater/river-profiles/nile-river/"
+  },
+  {
+    "question": "Qual é o nome do maior deserto do mundo?",
+    "response": "saara",
+    "explanation": "O Saara é o maior deserto do mundo, cobrindo uma área de cerca de 9 milhões de km².",
+    "font": "https://www.nationalgeographic.com/travel/lists/10-largest-deserts-world/"
+  },
+  {
+    "question": "Quantos anos tem um milênio?",
+    "response": "1000",
+    "explanation": "Um milênio equivale a 1000 anos.",
+    "font": ""
+  },
+  {
+    "question": "Qual é a capital da Espanha?",
+    "response": "madri",
+    "explanation": "Madri é a capital da Espanha e um destino turístico popular.",
+    "font": "https://www.spain.info/cidade/madrid/"
+  },
+  {
+    "question": "Qual é o nome do maior animal terrestre do mundo?",
+    "response": "elefante africano",
+    "explanation": "O elefante africano é o maior animal terrestre do mundo, podendo chegar a mais de 4 metros de altura e pesar até 12 toneladas.",
+    "font": "https://www.nationalgeographic.com/animals/mammals/a/african-elephant/"
+  },
+  {
+    "question": "Qual é o nome do inventor do telefone?",
+    "response": "alexander graham bell",
+    "explanation": "Alexander Graham Bell é o inventor do telefone e fez várias outras contribuições significativas para a ciência e a tecnologia em sua vida.",
+    "font": "https://www.britannica.com/biography/Alexander-Graham-Bell"
+  },
+  {
+    "question": "Qual é o número de anos em um século?",
+    "response": "100",
+    "explanation": "Um século é um período de 100 anos.",
+    "font": "https://www.britannica.com/topic/century"
+  },
+  {
+    "question": "Qual é o nome da famosa universidade dos Estados Unidos, localizada em Cambridge, Massachusetts?",
+    "response": "harvard",
+    "explanation": "A Universidade de Harvard é uma das mais famosas universidades dos Estados Unidos e do mundo.",
+    "font": "https://www.harvard.edu/"
+  },
+  {
+    "question": "Qual é o nome do componente mais abundante na atmosfera?",
+    "response": "nitrogênio",
+    "explanation": "O nitrogênio é o componente mais abundante na atmosfera, com cerca de 78% do volume total.",
+    "font": "https://www.britannica.com/science/nitrogen"
+  },
+  {
+    "question": "Qual é o nome da estátua mais famosa do mundo?",
+    "response": "estátua da liberdade",
+    "explanation": "A Estátua da Liberdade é uma das estátuas mais famosas do mundo e é um símbolo icônico da liberdade e da democracia.",
+    "font": "https://www.nps.gov/stli/index.htm"
+  },
+  {
+    "question": "Qual é o nome do continente onde está localizado o Brasil?",
+    "response": "américa do sul",
+    "explanation": "O Brasil está localizado na América do Sul, o quarto maior continente do mundo.",
+    "font": "https://www.britannica.com/place/South-America"
+  },
+  {
+    "question": "Qual é o nome do planeta que é chamado de Planeta Vermelho?",
+    "response": "marte",
+    "explanation": "Marte é o planeta que é chamado de Planeta Vermelho, devido à sua cor característica.",
+    "font": "https://solarsystem.nasa.gov/planets/mars/overview/"
+  },
+  {
+    "question": "Qual é o nome do invento que foi criado pelos irmãos Wright em 1903?",
+    "response": "avião",
+    "explanation": "Os irmãos Wright inventaram o avião em 1903, fazendo o primeiro voo controlado com um aparelho mais pesado que o ar.",
+    "font": "https://www.britannica.com/topic/history-of-flight/The-first-airplane"
+  },
+  {
+    "question": "Qual é o nome do quarto planeta do sistema solar?",
+    "response": "marte",
+    "explanation": "Marte é o quarto planeta do sistema solar, depois de Mercúrio, Vênus e Terra.",
+    "font": "https://solarsystem.nasa.gov/planets/mars/overview/"
+  },
+  {
+    "question": "Qual é o nome do grupo de animais que inclui leões, tigres e leopardos?",
+    "response": "felinos",
+    "explanation": "Felinos é o nome dado ao grupo de animais que inclui leões, tigres, leopardos, gatos domésticos e outros felinos.",
+    "font": "https://www.nationalgeographic.org/encyclopedia/big-cats/"
+  },
+  {
+    "question": "Qual é o nome do elemento químico com o símbolo H?",
+    "response": "hidrogênio",
+    "explanation": "Hidrogênio é o nome do elemento químico com o símbolo H, e é o elemento mais abundante no universo.",
+    "font": "https://www.britannica.com/science/hydrogen"
+  },
+  {
+    "question": "Qual é o resultado da expressão 9 + 7 x 8 - 13?",
+    "response": "52",
+    "explanation": "9 + 7 x 8 - 13 = 9 + 56 - 13 = 52",
+    "font": ""
+  },
+  {
+    "question": "Qual o nome da linguagem que é falada na China?",
+    "response": "mandarin",
+    "explanation": "Na China a linguagem utilizada para a comunicação é chamada de Mandarin.",
+    "font": ""
+  },
+  {
+    "question": "No total, quantos planetas existem no sistema solar?",
+    "response": "8",
+    "explanation": "O sistema solar possui 8 planetas, sendo eles, em ordem a partir do Sol: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno.",
+    "font": "https://solarsystem.nasa.gov/planets/overview/"
+  },
+  {
+    "question": "Quantos planetas são reconhecidos pela União Astronômica Internacional?",
+    "response": "5",
+    "explanation": "A União Astronômica Internacional reconheceu cinco planetas anões. São eles: Ceres, Plutão, Haumea, Makemake e Éris.",
+    "font": "https://solarsystem.nasa.gov/planets/dwarf-planets/"
+  },
+  {
+    "question": "Qual é o nome do país que é conhecido como a Terra do Sol Nascente?",
+    "response": "japão",
+    "explanation": "O Japão é frequentemente referido como a Terra do Sol Nascente, devido à sua localização geográfica no leste da Ásia.",
+    "font": "https://www.japan.go.jp/"
+  },
+  {
+    "question": "Qual é o nome do famoso pintor italiano da obra \"Mona Lisa\"?",
+    "response": "leonardo da vinci",
+    "explanation": "Leonardo da Vinci foi um dos mais importantes artistas e inventores da Renascença italiana, e é famoso por sua pintura \"Mona Lisa\".",
+    "font": "https://www.britannica.com/biography/Leonardo-da-Vinci"
+  },
+  {
+    "question": "Quantos anos tem um decênio?",
+    "response": "10",
+    "explanation": "Um decênio é um período de tempo de 10 anos.",
+    "font": "https://www.britannica.com/topic/decade"
+  },
+  {
+    "question": "Qual é o nome do sistema planetário que inclui a Terra?",
+    "response": "sistema solar",
+    "explanation": "O Sistema Solar é o sistema planetário que inclui a Terra, o Sol e todos os outros planetas e corpos celestes que orbitam o Sol.",
+    "font": "https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/"
+  },
+  {
+    "question": "Qual é o nome do maior rio do mundo?",
+    "response": "amazonas",
+    "explanation": "O Rio Amazonas é o maior rio do mundo em volume de água, com mais de 7 milhões de km³ de água.",
+    "font": "https://www.britannica.com/place/Amazon-River"
+  },
+  {
+    "question": "Qual é o nome do animal que é o símbolo da Austrália?",
+    "response": "canguru",
+    "explanation": "O canguru é um dos animais mais famosos da Austrália, e é frequentemente usado como símbolo do país.",
+    "font": "https://www.australia.com/pt-pt/facts/animals/kangaroo-facts.html"
+  },
+  {
+    "question": "Qual é o nome do vulcão mais famoso do mundo?",
+    "response": "vesúvio",
+    "explanation": "O Vesúvio é um vulcão localizado na Itália e é famoso por sua erupção em 79 d.C., que destruiu as cidades de Pompeia e Herculano.",
+    "font": "https://www.britannica.com/place/Mount-Vesuvius"
+  },
+  {
+    "question": "Qual é o nome do elemento químico usado para fazer balões voarem?",
+    "response": "hidrogênio",
+    "explanation": "O hidrogênio é frequentemente usado para fazer balões voarem, embora seja altamente inflamável e possa ser perigoso.",
+    "font": "https://www.britannica.com/science/hydrogen"
+  },
+  {
+    "question": "Quantos países há no mundo?",
+    "response": "193",
+    "explanation": "Conforme a classificação da Organização das Nações Unidas (ONU), há atualmente 193 países no mundo, que são reconhecidos diplomaticamente de forma ampla pelas diversas instituições mundiais.",
+    "font": "https://mundoeducacao.uol.com.br/geografia/paises.htm"
   }
 ]
