@@ -1,0 +1,36 @@
+{ 
+  "name": "trivia", 
+  "version": "1.0.0", 
+  "description": "API made in Node.js for a trivia game with randomly generated questions. Challenge your knowledge and have fun!",
+  "main": "lib/index.js", 
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  }, 
+  "repository": { 
+    "type": "git", 
+    "url": "git+https://github.com/emptydev1/trivia.git" 
+  }, 
+  "keywords": [
+    "trivia",
+    "knowledge",
+    "brain",
+    "books",
+    "history",
+    "math",
+    "fun",
+    "framework",
+    "api"
+  ], 
+  "author": "emptydev1", 
+  "license": "Apache-2.0",
+  "bugs": { 
+    "url": "https://github.com/emptydev1/trivia/issues" 
+  }, 
+  "homepage": "https://github.com/emptydev1/trivia#readme", 
+  "dependencies": { 
+    "express": "^4.18.2"
+  }, 
+  "devDependencies": { 
+    "@types/node": "^18.15.11" 
+  } 
+}
