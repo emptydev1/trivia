@@ -1,0 +1,1370 @@
+[
+  {
+    "question": "Qual é a capital do Brasil?",
+    "response": "brasília",
+    "explanation": "Brasília é a capital federal do Brasil desde 1960, quando substituiu o Rio de Janeiro.",
+    "font": "https://brasilescola.uol.com.br/brasil/capitais-brasil.htm"
+  },
+  {
+    "question": "Qual é o maior planeta do Sistema Solar?",
+    "response": "júpiter",
+    "explanation": "Júpiter é o maior planeta do sistema solar em massa e diâmetro, com gravidade forte o suficiente para atrair objetos em seu entorno. Além disso, é conhecido por suas listras coloridas e a Grande Mancha Vermelha, uma tempestade do tamanho da Terra ativa há mais de 300 anos.",
+    "font": "https://solarsystem.nasa.gov/planets/jupiter/overview/"
+  },
+  {
+    "question": "Qual é o primeiro elemento da tabela periódica?",
+    "response": "hidrogênio",
+    "explanation": "O hidrogênio foi o primeiro elemento da tabela periódica porque tem apenas um próton em seu núcleo, tornando-o o elemento mais simples e fundamental da natureza. Ele foi descoberto e nomeado antes de outros elementos e, portanto, foi listado primeiro na tabela periódica.",
+    "font": "https://www.rsc.org/periodic-table/element/1/hydrogen"
+  },
+  {
+    "question": "Em que ano a Segunda Guerra Mundial terminou?",
+    "response": "1945",
+    "explanation": "A Segunda Guerra Mundial terminou em 1945, após a rendição da Alemanha e do Japão.",
+    "font": "https://www.history.com/topics/world-war-ii/end-of-world-war-ii"
+  },
+  {
+    "question": "Quem escreveu a obra \"Dom Quixote\"?",
+    "response": "miguel de cervantes",
+    "explanation": "A obra \"Dom Quixote\" foi escrita por Miguel de Cervantes no século XVII, e é considerada uma das mais importantes da literatura espanhola.",
+    "font": "https://www.britannica.com/topic/Don-Quixote-novel-by-Cervantes"
+  },
+  {
+    "question": "Qual é o nome da famosa pintura de Leonardo da Vinci que mostra uma mulher sorridente?",
+    "response": "monalisa",
+    "explanation": "",
+    "font": "https://www.louvre.fr/en/oeuvre-notices/mona-lisa-portrait-lisa-gherardini-wife-francesco-del-giocondo"
+  },
+  {
+    "question": "Qual é a segunda maior religião do mundo?",
+    "response": "islamismo",
+    "explanation": "O Islã é a segunda maior religião do mundo em número de seguidores, com mais de um bilhão de muçulmanos.",
+    "font": "https://www.britannica.com/topic/Islam"
+  },
+  {
+    "question": "Qual é o nome do famoso cientista que propôs a Teoria da Relatividade?",
+    "response": "albert einstein",
+    "explanation": "Albert Einstein é o famoso cientista alemão que propôs a Teoria da Relatividade, uma das mais importantes teorias da física moderna.",
+    "font": "https://www.britannica.com/biography/Albert-Einstein"
+  },
+  {
+    "question": "Qual é o nome do personagem principal da série de filmes \"Star Wars\"?",
+    "response": "luke skywalker",
+    "explanation": "",
+    "font": "https://www.starwars.com/databank/luke-skywalker"
+  },
+  {
+    "question": "Qual foi o primeiro país a chegar à Lua?",
+    "response": "estados unidos",
+    "explanation": "Os Estados Unidos foram o primeiro país a chegar à Lua, em 1969, com a missão Apollo 11.",
+    "font": "https://www.nasa.gov/centers/glenn/about/information/space_landing.html"
+  },
+  {
+    "question": "Qual é o nome da maior cordilheira do mundo?",
+    "response": "cordilheira dos andes",
+    "explanation": "A Cordilheira dos Andes é a maior cordilheira do mundo, com cerca de 7 mil km de extensão, estendendo-se por sete países da América do Sul.",
+    "font": "https://www.britannica.com/place/Andes-Mountains"
+  },
+  {
+    "question": "Qual é o nome do famoso detetive criado por Arthur Conan Doyle?",
+    "response": "sherlock holmes",
+    "explanation": "",
+    "font": "https://www.arthurconandoyle.com/sherlock-holmes/"
+  },
+  {
+    "question": "Qual é o nome do famoso cientista inglês que descobriu a lei da gravitação universal?",
+    "response": "isaac newton",
+    "explanation": "Isaac Newton é o famoso cientista inglês que descobriu a lei da gravitação universal, uma das leis fundamentais da física.",
+    "font": "https://www.britannica.com/biography/Isaac-Newton"
+  },
+  {
+    "question": "Qual é o nome da famosa estátua do Rio de Janeiro?",
+    "response": "cristo redentor",
+    "explanation": "O Cristo Redentor é uma famosa estátua localizada no Rio de Janeiro, no Brasil, e é um dos símbolos mais reconhecidos do país.",
+    "font": "https://www.brasil.gov.br/cultura/2015/01/conheca-a-historia-e-curiosidades-do-cristo-redentor"
+  },
+  {
+    "question": "Qual é o nome do famoso compositor austríaco que compôs a \"Quinta Sinfonia\"?",
+    "response": "ludwig van beethoven",
+    "explanation": "Ludwig van Beethoven é o famoso compositor austríaco que compôs a \"Quinta Sinfonia\", uma de suas obras mais conhecidas.",
+    "font": " https://www.britannica.com/biography/Ludwig-van-Beethoven"
+  },
+  {
+    "question": "Qual é o nome do famoso filósofo grego que escreveu \"A República\"?",
+    "response": "platão",
+    "explanation": "Platão é o famoso filósofo grego que escreveu \"A República\", uma de suas obras mais famosas.",
+    "font": "https://www.britannica.com/biography/Plato"
+  },
+  {
+    "question": "Qual país é conhecido como \"o berço da civilização\"?",
+    "response": "iraque",
+    "explanation": "O Iraque é conhecido como \"o berço da civilização\" devido à presença de importantes civilizações antigas no território, como a Suméria e a Babilônia.",
+    "font": "https://www.britannica.com/place/Iraq"
+  },
+  {
+    "question": "Em que ano ocorreu a Revolução Francesa?",
+    "response": "1789",
+    "explanation": "A Revolução Francesa ocorreu em 1789 e foi um dos eventos mais importantes da história moderna da França.",
+    "font": "https://www.britannica.com/event/French-Revolution"
+  },
+  {
+    "question": "Em que cidade a Torre Eiffel está localizada?",
+    "response": "paris",
+    "explanation": "A Torre Eiffel está localizada na cidade de Paris, na França, e é um dos pontos turísticos mais famosos do mundo.",
+    "font": "https://www.toureiffel.paris/en/the-monument/the-tower-in-a-few-words"
+  },
+  {
+    "question": "Qual é o nome da famosa atriz que estrelou \"Bonequinha de Luxo\"?",
+    "response": "audrey hepburn",
+    "explanation": "Audrey Hepburn é a famosa atriz que estrelou \"Bonequinha de Luxo\", um dos filmes mais icônicos do cinema.",
+    "font": "https://www.britannica.com/biography/Audrey-Hepburn"
+  },
+  {
+    "question": "Qual é o nome da primeira mulher a ganhar o Prêmio Nobel?",
+    "response": "marie curie",
+    "explanation": "Marie Curie foi a primeira mulher a ganhar o Prêmio Nobel, em 1903, pela descoberta do rádio.",
+    "font": "https://www.nobelprize.org/womenwhochangedscience/stories/marie-curie"
+  },
+  {
+    "question": "Qual é o nome do famoso autor de \"Romeu e Julieta\"?",
+    "response": "william shakespeare",
+    "explanation": "William Shakespeare é o famoso autor de \"Romeu e Julieta\", uma das peças mais famosas do teatro mundial.",
+    "font": "https://www.britannica.com/biography/William-Shakespeare"
+  },
+  {
+    "question": "Qual é o nome do famoso comediante que estrelou \"O Grande Ditador\"?",
+    "response": "charlie chaplin",
+    "explanation": "Charlie Chaplin é o famoso comediante que estrelou \"O Grande Ditador\", um dos filmes mais importantes da história do cinema.",
+    "font": "https://www.britannica.com/biography/Charlie-Chaplin"
+  },
+  {
+    "question": "Qual é o nome do famoso explorador que descobriu a América?",
+    "response": "cristóvão colombo",
+    "explanation": "Cristóvão Colombo é o famoso explorador que descobriu a América em 1492, durante uma viagem financiada pelos Reis Católicos da Espanha.",
+    "font": "https://www.britannica.com/biography/Christopher-Columbus"
+  },
+  {
+    "question": "Qual é o nome do famoso compositor brasileiro que compôs \"Garota de Ipanema\"?",
+    "response": "tom jobim",
+    "explanation": "Tom Jobim é o famoso compositor brasileiro que compôs \"Garota de Ipanema\", uma das canções mais conhecidas da música brasileira.",
+    "font": "https://www.britannica.com/biography/Antonio-Carlos-Jobim"
+  },
+  {
+    "question": "Qual é o nome da famosa obra de George Orwell que fala sobre um governo autoritário?",
+    "response": "1984",
+    "explanation": "\"1984\" é o nome da famosa obra de George Orwell que fala sobre um governo autoritário e de vigilância constante.",
+    "font": "https://www.britannica.com/topic/Nineteen-Eighty-four"
+  },
+  {
+    "question": "Qual é a principal religião da Índia?",
+    "response": "hinduísmo",
+    "explanation": "O hinduísmo é a principal religião da Índia, e é uma das religiões mais antigas do mundo.",
+    "font": "https://www.britannica.com/topic/Hinduism"
+  },
+  {
+    "question": "Quem foi o primeiro presidente do Brasil?",
+    "response": "deodoro da fonseca",
+    "explanation": "Deodoro da Fonseca foi o primeiro presidente do Brasil, após a proclamação da República em 1889.",
+    "font": "https://www.presidencia.gov.br/presidentes/deodoro-da-fonseca"
+  },
+  {
+    "question": "Qual é o país mais populoso do mundo?",
+    "response": "china",
+    "explanation": "A China é o país mais populoso do mundo, com mais de 1,4 bilhão de habitantes.",
+    "font": "https://www.worldometers.info/world-population/china-population/"
+  },
+  {
+    "question": "Qual é a moeda oficial do Japão?",
+    "response": "iene",
+    "explanation": "O iene é a moeda oficial do Japão desde 1871, e é uma das moedas mais negociadas no mundo.",
+    "font": "https://www.britannica.com/topic/yen"
+  },
+  {
+    "question": "Qual é o nome do famoso físico que formulou as Leis do Movimento?",
+    "response": "isaac newton",
+    "explanation": "Isaac Newton foi o famoso físico que formulou as Leis do Movimento, que são fundamentais para a física clássica.",
+    "font": "https://www.britannica.com/biography/Isaac-Newton"
+  },
+  {
+    "question": "Qual é o nome do famoso compositor alemão que compôs a \"Nona Sinfonia\"?",
+    "response": "ludwig van beethoven",
+    "explanation": "Ludwig van Beethoven é o famoso compositor alemão que compôs a \"Nona Sinfonia\", que inclui a famosa \"Ode à Alegria\".",
+    "font": "https://www.britannica.com/biography/Ludwig-van-Beethoven"
+  },
+  {
+    "question": "Qual é o nome da famosa atleta americana que venceu quatro medalhas de ouro nas Olimpíadas de 1936?",
+    "response": "jesse owens",
+    "explanation": "Jesse Owens foi a famosa atleta americana que venceu quatro medalhas de ouro nas Olimpíadas de 1936, realizadas em Berlim, na Alemanha.",
+    "font": "https://www.britannica.com/biography/Jesse-Owens"
+  },
+  {
+    "question": "Qual é o nome do famoso físico teórico britânico que propôs a existência dos buracos negros?",
+    "response": "stephen hawking",
+    "explanation": "Stephen Hawking foi o famoso físico teórico britânico que propôs a existência dos buracos negros, que são objetos extremamente densos com um campo gravitacional tão forte que nem mesmo a luz pode escapar.",
+    "font": "https://www.britannica.com/biography/Stephen-Hawking"
+  },
+  {
+    "question": "Qual é o nome da primeira mulher a viajar para o espaço?",
+    "response": "valentina tereshkova",
+    "explanation": "Valentina Tereshkova foi a primeira mulher a viajar para o espaço, em 1963, a bordo da nave Vostok 6, durante a era soviética.",
+    "font": "https://www.britannica.com/biography/Valentina-Tereshkova"
+  },
+  {
+    "question": "Quando a segunda guerra mundial teve início?",
+    "response": "1939",
+    "explanation": "A Segunda Guerra Mundial teve início quando a Alemanha nazista, liderada por Adolf Hitler, iniciou uma agressiva política de expansão territorial na Europa, desrespeitando os acordos internacionais estabelecidos após a Primeira Guerra Mundial. A invasão da Polônia pelas forças armadas alemãs em 1º de setembro de 1939 foi o evento que deu início à guerra.",
+    "font": "https://www.bbc.com/portuguese/noticias/2014/08/140801_segunda_guerra_mundial_cronologia_bd"
+  },
+  {
+    "question": "Qual é o nome do famoso líder que lutou pela independência da Índia?",
+    "response": "mahatma gandhi",
+    "explanation": "Mahatma Gandhi foi o famoso líder que liderou a luta pela independência da Índia, através de uma campanha não-violenta de desobediência civil.",
+    "font": "https://www.britannica.com/biography/Mahatma-Gandhi"
+  },
+  {
+    "question": "Qual é o nome da famosa obra de Miguel de Cervantes que conta as aventuras de um cavaleiro e seu escudeiro?",
+    "response": "dom quixote",
+    "explanation": "\"Dom Quixote\" é o nome da famosa obra de Miguel de Cervantes que conta as aventuras de um cavaleiro e seu escudeiro, e é considerado um dos romances mais importantes da literatura espanhola.",
+    "font": "https://www.britannica.com/topic/Don-Quixote-novel-by-Cervantes"
+  },
+  {
+    "question": "Qual é o nome da famosa banda britânica liderada por Freddie Mercury?",
+    "response": "queen",
+    "explanation": "\"Queen\" é o nome da famosa banda britânica liderada por Freddie Mercury, que foi um dos artistas mais icônicos da música pop.",
+    "font": "https://www.queenonline.com/"
+  },
+  {
+    "question": "Qual é o nome do famoso cientista italiano que inventou o rádio?",
+    "response": "guglielmo marconi",
+    "explanation": "Guglielmo Marconi foi o famoso cientista italiano que inventou o rádio, um dos meios de comunicação mais importantes da história.",
+    "font": "https://www.britannica.com/biography/Guglielmo-Marconi"
+  },
+  {
+    "question": "Qual é o nome do famoso filme dirigido por Stanley Kubrick que se passa em um hotel isolado nas montanhas?",
+    "response": "o iluminado",
+    "explanation": "\"O Iluminado\" é o nome do famoso filme de terror dirigido por Stanley Kubrick que se passa em um hotel isolado nas montanhas e é baseado na obra de Stephen King.",
+    "font": "https://www.imdb.com/title/tt0081505/"
+  },
+  {
+    "question": "Qual é o nome do famoso cientista britânico que elaborou as \"Leis do Movimento Planetário\"?",
+    "response": "isaac newton",
+    "explanation": "Isaac Newton foi o famoso cientista britânico que elaborou as \"Leis do Movimento Planetário\", que são fundamentais para a astronomia moderna.",
+    "font": "https://www.britannica.com/biography/Isaac-Newton"
+  },
+  {
+    "question": "Qual é o nome do famoso poema épico que conta a história de uma viagem desafiadora?",
+    "response": "a odisséia",
+    "explanation": "\"A Odisséia\" é o nome do famoso poema épico que conta a história da viagem desafiadora de Ulisses de volta para casa, após a Guerra de Troia.",
+    "font": "https://www.britannica.com/topic/Odyssey-epic-by-Homer"
+  },
+  {
+    "question": "Qual é o nome do famoso cientista britânico que desenvolveu a teoria da evolução por seleção natural?",
+    "response": "charles darwin",
+    "explanation": "Charles Darwin foi o famoso cientista britânico que desenvolveu a teoria da evolução por seleção natural, que é um dos pilares da biologia moderna.",
+    "font": "https://www.britannica.com/biography/Charles-Darwin"
+  },
+  {
+    "question": "Qual é o nome do famoso busto que é um dos símbolos da civilização egípcia?",
+    "response": "a máscara mortuária de tutancâmon",
+    "explanation": "A máscara mortuária de Tutancâmon é o famoso busto que é um dos símbolos mais reconhecidos da civilização egípcia, e é considerada uma das obras de arte mais importantes do Antigo Egito.",
+    "font": ""
+  },
+  {
+    "question": "Qual é o nome da famosa obra de William Shakespeare que conta a história do príncipe da Dinamarca?",
+    "response": "hamlet",
+    "explanation": "\"Hamlet\" é o nome da famosa obra de William Shakespeare que conta a história do príncipe da Dinamarca que busca vingança contra seu tio que matou seu pai.",
+    "font": "https://www.britannica.com/topic/Hamlet-by-Shakespeare"
+  },
+  {
+    "question": "Qual é o nome da famosa série de livros de J.K. Rowling que se passa em um mundo de magia?",
+    "response": "harry potter",
+    "explanation": "\"Harry Potter\" é o nome da famosa série de livros de J.K. Rowling que se passa em um mundo de magia e acompanha as aventuras do jovem bruxo Harry Potter e seus amigos.",
+    "font": "https://www.pottermore.com/"
+  },
+  {
+    "question": "Qual é o nome do famoso pintor holandês que pintou o famoso quadro \"A Noite Estrelada\"?",
+    "response": "vincent van gogh",
+    "explanation": "Vincent van Gogh é o famoso pintor holandês que pintou o quadro \"A Noite Estrelada\", que é uma das obras de arte mais famosas do mundo.",
+    "font": "https://www.vangoghgallery.com/"
+  },
+  {
+    "question": "Qual é o nome do famoso filme de Stanley Kubrick que se passa em um futuro distópico?",
+    "response": "a laranja mecânica",
+    "explanation": "\"A Laranja Mecânica\" é o nome do famoso filme de Stanley Kubrick que se passa em um futuro distópico e acompanha as aventuras violentas do jovem delinquente Alex e seu tratamento experimental para a cura de sua violência.",
+    "font": "https://www.imdb.com/title/tt0066921/"
+  },
+  {
+    "question": "Qual é o nome do famoso filósofo grego que era discípulo de Sócrates e fundou a Academia de Atenas?",
+    "response": "platão",
+    "explanation": "Platão foi o famoso filósofo grego que era discípulo de Sócrates e fundou a Academia de Atenas, uma das escolas mais importantes da Grécia Antiga.",
+    "font": "https://www.britannica.com/biography/Plato"
+  },
+  {
+    "question": "Em que ano a Alemanha foi reunificada?",
+    "response": "1990",
+    "explanation": "A Alemanha foi reunificada em 1990, após a queda do Muro de Berlim.",
+    "font": "https://www.britannica.com/event/German-reunification"
+  },
+  {
+    "question": "Qual o resultado de 7x8?",
+    "response": "56",
+    "explanation": "7x8 é igual à 58.",
+    "font": ""
+  },
+  {
+    "question": "São dados os números reais x = 2√10 e y = 10√2. Qual é o valor da expressão x²y²?",
+    "response": "8000",
+    "explanation": "(2√10)² x (10√2)² = (4 x 10) x (100 x 2) = 40 x 200 = 8000.",
+    "font": ""
+  },
+  {
+    "question": "Qual o valor da expressão (⁶√8)²?",
+    "response": "2",
+    "explanation": "⁶√8^2 = ⁶√64 = ⁶√2^6 = 2.",
+    "font": ""
+  },
+  {
+    "question": "Qual o valor da expressão (8√3)²?",
+    "response": "192",
+    "explanation": "8^2 x √3^2 = 64 x 3 = 192.",
+    "font": ""
+  },
+  {
+    "question": "Qual o valor da expressão (√21)²",
+    "response": "21",
+    "explanation": "√21² = 21.",
+    "font": ""
+  },
+  {
+    "question": "Qual é o nome do planeta mais próximo do Sol?",
+    "response": "mercúrio",
+    "explanation": "Mercúrio é o planeta mais próximo do Sol e também é o menor planeta do Sistema Solar.",
+    "font": "https://www.britannica.com/place/Mercury-planet"
+  },
+  {
+    "question": "Qual é o nome da estrela mais próxima da Terra?",
+    "response": "próxima centauri",
+    "explanation": "Próxima Centauri é a estrela mais próxima da Terra, localizada a cerca de 4,2 anos-luz de distância.",
+    "font": "https://www.britannica.com/place/Proxima-Centauri"
+  },
+  {
+    "question": "Qual é o nome da missão da NASA que pousou um robô em Marte em 2021?",
+    "response": "perseverance",
+    "explanation": "\"Perseverance\" é o nome da missão da NASA que pousou um robô em Marte em fevereiro de 2021, com o objetivo de procurar sinais de vida passada no planeta.",
+    "font": "https://www.nasa.gov/perseverance"
+  },
+  {
+    "question": "Qual é o nome da constelação que inclui a estrela mais brilhante do céu noturno?",
+    "response": "orion",
+    "explanation": "Orion é o nome da constelação que inclui a estrela mais brilhante do céu noturno, conhecida como Sirius.",
+    "font": "https://www.britannica.com/place/Orion-constellation"
+  },
+  {
+    "question": "Qual é o nome da famosa teoria científica que explica a origem do universo?",
+    "response": "o big bang",
+    "explanation": "O Big Bang é a famosa teoria científica que explica a origem do universo, que teria começado com uma explosão cósmica há cerca de 13,8 bilhões de anos.",
+    "font": "https://www.britannica.com/event/Big-Bang-model"
+  },
+  {
+    "question": "Quantos estados tem o Brasil?",
+    "response": "26",
+    "explanation": "O Brasil tem 26 estados e um Distrito Federal.",
+    "font": "https://www.britannica.com/place/Brazil"
+  },
+  {
+    "question": "Qual é o menor planeta do Sistema Solar?",
+    "response": "mercúrio",
+    "explanation": "Mercúrio é o menor planeta do Sistema Solar, com um diâmetro de apenas 4.880 km.",
+    "font": "https://www.britannica.com/place/Mercury-planet"
+  },
+  {
+    "question": "Quem deu início à Segunda Guerra Mundial?",
+    "response": "adolf hitler",
+    "explanation": "Adolf Hitler, líder do partido nazista da Alemanha, é considerado o principal responsável pelo início da Segunda Guerra Mundial, após a invasão da Polônia em setembro de 1939.",
+    "font": "https://www.britannica.com/event/World-War-II"
+  },
+  {
+    "question": "Qual é o nome do famoso compositor austríaco que escreveu a ópera \"A Flauta Mágica\"?",
+    "response": "wolfgang amadeus mozart",
+    "explanation": "Wolfgang Amadeus Mozart foi o famoso compositor austríaco que escreveu a ópera \"A Flauta Mágica\", que é uma das óperas mais famosas do mundo.",
+    "font": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
+  },
+  {
+    "question": "Qual é o nome da famosa ponte suspensa que liga São Francisco a Marin County?",
+    "response": "a ponte golden gate",
+    "explanation": "A Ponte Golden Gate é a famosa ponte suspensa que liga São Francisco a Marin County, na Califórnia, EUA.",
+    "font": "https://www.goldengate.org/"
+  },
+  {
+    "question": "Qual foi o primeiro país a sediar uma Copa do Mundo de Futebol?",
+    "response": "uruguai",
+    "explanation": "O Uruguai foi o primeiro país a sediar uma Copa do Mundo de Futebol, em 1930.",
+    "font": "https://www.fifa.com/worldcup/"
+  },
+  {
+    "question": "Qual é o nome da famosa atriz americana que interpretou a personagem Carrie Bradshaw na série \"Sex and the City\"?",
+    "response": "sarah jessica parker",
+    "explanation": "Sarah Jessica Parker foi a famosa atriz americana que interpretou a personagem Carrie Bradshaw na série \"Sex and the City\".",
+    "font": "https://www.imdb.com/name/nm0000572/"
+  },
+  {
+    "question": "Qual é o nome da famosa estátua que representa a liberdade em Nova York, EUA?",
+    "response": "a estátua da liberdade",
+    "explanation": "A Estátua da Liberdade é a famosa estátua que representa a liberdade em Nova York, EUA, e é um dos símbolos mais icônicos dos Estados Unidos.",
+    "font": "https://www.nps.gov/stli/index.htm"
+  },
+  {
+    "question": "Quando foi criado o Node.js?",
+    "response": "2009",
+    "explanation": "O Node.js foi criado em 2009 por Ryan Dahl, como uma forma de permitir que os desenvolvedores criassem aplicativos de rede em tempo real em JavaScript.",
+    "font": "https://nodejs.dev/history"
+  },
+  {
+    "question": "Qual é o framework mais utilizado no Node.js?",
+    "response": "express",
+    "explanation": "O Express.js é atualmente o framework mais utilizado no Node.js, devido à sua facilidade de uso, modularidade e ampla comunidade. Ele fornece uma série de recursos, como roteamento, middleware e suporte a vários mecanismos de renderização, para facilitar o desenvolvimento de aplicativos web robustos e escaláveis.",
+    "font": "https://expressjs.com/"
+  },
+  {
+    "question": "Qual é o maior animal do mundo?",
+    "response": "baleia-azul",
+    "explanation": "A Baleia-azul é o maior animal do mundo, podendo chegar a 30 metros de comprimento e pesar cerca de 200 toneladas.",
+    "font": "https://www.nationalgeographic.com/animals/mammals/b/blue-whale/"
+  },
+  {
+    "question": "Qual é o nome do famoso cientista que formulou a teoria da evolução?",
+    "response": "charles darwin",
+    "explanation": "Charles Darwin foi o famoso cientista que formulou a teoria da evolução, que revolucionou a biologia no século XIX.",
+    "font": "https://www.britannica.com/biography/Charles-Darwin"
+  },
+  {
+    "question": "Qual é o nome da famosa cantora americana que é conhecida como a \"Rainha do Pop\"?",
+    "response": "madonna",
+    "explanation": "Madonna é a famosa cantora americana que é conhecida como a \"Rainha do Pop\". Ela é uma das artistas musicais mais bem-sucedidas de todos os tempos e vendeu mais de 300 milhões de discos em todo o mundo.",
+    "font": "https://www.biography.com/musician/madonna"
+  },
+  {
+    "question": "Qual é o nome do processo pelo qual as plantas convertem a luz solar em energia?",
+    "response": "fotossíntese",
+    "explanation": "A fotossíntese é o processo pelo qual as plantas convertem a luz solar em energia para sustentar seu crescimento e metabolismo.",
+    "font": "https://www.nationalgeographic.org/encyclopedia/photosynthesis/"
+  },
+  {
+    "question": "Qual era o mais longo dinossauro já descoberto?",
+    "response": "argentinosaurus",
+    "explanation": "Argentinosaurus era o mais longo dinossauro já descoberto, com cerca de 40 metros de comprimento e pesando aproximadamente 100 toneladas.",
+    "font": "https://www.nationalgeographic.com/news/2014/8/140819-longest-dinosaur-titanosaur-evolution-science/"
+  },
+  {
+    "question": "Qual foi o maior predador da era dos dinossauros?",
+    "response": "spinosaurus",
+    "explanation": "Spinosaurus foi o maior predador da era dos dinossauros, com cerca de 15 metros de comprimento e pesando em torno de 7 toneladas.",
+    "font": "https://www.nationalgeographic.com/animals/dinosaurs/s/spinosaurus/"
+  },
+  {
+    "question": "Quantos dentes o T-Rex tinha?",
+    "response": "50-60",
+    "explanation": "O T-Rex tinha cerca de 50 a 60 dentes, que podiam medir até 20 centímetros de comprimento.",
+    "font": "https://www.nationalgeographic.com/science/article/why-trex-had-long-narrow-toothy-snout"
+  },
+  {
+    "question": "Quando viveu o Velociraptor?",
+    "response": "cretáceo",
+    "explanation": "O Velociraptor viveu no período Cretáceo, cerca de 75 a 71 milhões de anos atrás.",
+    "font": "https://www.nationalgeographic.com/animals/dinosaurs/v/velociraptor/"
+  },
+  {
+    "question": "Qual foi o primeiro dinossauro a ser identificado?",
+    "response": "megalosaurus",
+    "explanation": "Megalosaurus foi o primeiro dinossauro a ser identificado e nomeado pelo naturalista William Buckland, em 1824.",
+    "font": "https://www.britannica.com/animal/Megalosaurus"
+  },
+  {
+    "question": "Qual o nome dado ao grupo de dinossauros que tinha pescoço longo?",
+    "response": "equropoda",
+    "explanation": "Sauropoda é o nome dado ao grupo de dinossauros que tinha pescoço longo. Esses animais incluem os maiores animais terrestres que já viveram na Terra.",
+    "font": "https://www.nationalgeographic.com/animals/dinosaurs/s/sauropods/"
+  },
+  {
+    "question": "Quantos dedos tinham as patas dianteiras dos dinossauros?",
+    "response": "3-4",
+    "explanation": "A maioria dos dinossauros tinha 3-4 dedos em suas patas dianteiras. O número exato de dedos variava de uma espécie para outra.",
+    "font": "https://www.britannica.com/story/how-many-fingers-did-dinosaurs-have"
+  },
+  {
+    "question": "Quem é homem mais rico do mundo?",
+    "response": "bernard arnault",
+    "explanation": "Bernard Arnault está no topo da lista dos homens mais ricos do mundo, com um patrimônio acumulado de US$ 190.9 bilhões.",
+    "font": "https://riconnect.rico.com.vc/blog/homens-mais-ricos-mundo/"
+  },
+  {
+    "question": "Qual é a capital do México?",
+    "response": "cidade do néxico",
+    "explanation": "A Cidade do México é a capital do México e a cidade mais populosa do país.",
+    "font": "https://www.visitmexico.com/pt/cidade-do-mexico"
+  },
+  {
+    "question": "Quantos elementos químicos existem?",
+    "response": "118",
+    "explanation": "Existem 118 elementos químicos conhecidos atualmente.",
+    "font": "https://www.britannica.com/science/chemical-element"
+  },
+  {
+    "question": "Qual é o primeiro número primo?",
+    "response": "2",
+    "explanation": "2 é o primeiro número primo, e é o único número par que é primo.",
+    "font": "https://www.britannica.com/topic/prime-number"
+  },
+  {
+    "question": "Qual é o nome da estátua da liberdade?",
+    "response": "a liberdade iluminando o mundo",
+    "explanation": "O nome oficial da Estátua da Liberdade é \"A liberdade iluminando o mundo\".",
+    "font": "https://www.nps.gov/stli/planyourvisit/faq.htm"
+  },
+  {
+    "question": "Qual é o nome do criador do Facebook?",
+    "response": "mark zuckerberg",
+    "explanation": "Mark Zuckerberg é o criador do Facebook e um dos mais jovens bilionários do mundo.",
+    "font": "https://www.biography.com/business-figure/mark-zuckerberg"
+  },
+  {
+    "question": "Qual é o nome do rio mais longo do mundo?",
+    "response": "nilo",
+    "explanation": "O Nilo é o rio mais longo do mundo com cerca de 6.650 km de comprimento.",
+    "font": "https://www.nationalgeographic.com/environment/freshwater/river-profiles/nile-river/"
+  },
+  {
+    "question": "Qual é o nome do maior deserto do mundo?",
+    "response": "saara",
+    "explanation": "O Saara é o maior deserto do mundo, cobrindo uma área de cerca de 9 milhões de km².",
+    "font": "https://www.nationalgeographic.com/travel/lists/10-largest-deserts-world/"
+  },
+  {
+    "question": "Quantos anos tem um milênio?",
+    "response": "1000",
+    "explanation": "Um milênio equivale a 1000 anos.",
+    "font": ""
+  },
+  {
+    "question": "Qual é a capital da Espanha?",
+    "response": "madri",
+    "explanation": "Madri é a capital da Espanha e um destino turístico popular.",
+    "font": "https://www.spain.info/cidade/madrid/"
+  },
+  {
+    "question": "Qual é o nome do maior animal terrestre do mundo?",
+    "response": "elefante africano",
+    "explanation": "O elefante africano é o maior animal terrestre do mundo, podendo chegar a mais de 4 metros de altura e pesar até 12 toneladas.",
+    "font": "https://www.nationalgeographic.com/animals/mammals/a/african-elephant/"
+  },
+  {
+    "question": "Qual é o nome do inventor do telefone?",
+    "response": "alexander graham bell",
+    "explanation": "Alexander Graham Bell é o inventor do telefone e fez várias outras contribuições significativas para a ciência e a tecnologia em sua vida.",
+    "font": "https://www.britannica.com/biography/Alexander-Graham-Bell"
+  },
+  {
+    "question": "Qual é o número de anos em um século?",
+    "response": "100",
+    "explanation": "Um século é um período de 100 anos.",
+    "font": "https://www.britannica.com/topic/century"
+  },
+  {
+    "question": "Qual é o nome da famosa universidade dos Estados Unidos, localizada em Cambridge, Massachusetts?",
+    "response": "harvard",
+    "explanation": "A Universidade de Harvard é uma das mais famosas universidades dos Estados Unidos e do mundo.",
+    "font": "https://www.harvard.edu/"
+  },
+  {
+    "question": "Qual é o nome do componente mais abundante na atmosfera?",
+    "response": "nitrogênio",
+    "explanation": "O nitrogênio é o componente mais abundante na atmosfera, com cerca de 78% do volume total.",
+    "font": "https://www.britannica.com/science/nitrogen"
+  },
+  {
+    "question": "Qual é o nome da estátua mais famosa do mundo?",
+    "response": "estátua da liberdade",
+    "explanation": "A Estátua da Liberdade é uma das estátuas mais famosas do mundo e é um símbolo icônico da liberdade e da democracia.",
+    "font": "https://www.nps.gov/stli/index.htm"
+  },
+  {
+    "question": "Qual é o nome do continente onde está localizado o Brasil?",
+    "response": "américa do sul",
+    "explanation": "O Brasil está localizado na América do Sul, o quarto maior continente do mundo.",
+    "font": "https://www.britannica.com/place/South-America"
+  },
+  {
+    "question": "Qual é o nome do planeta que é chamado de Planeta Vermelho?",
+    "response": "marte",
+    "explanation": "Marte é o planeta que é chamado de Planeta Vermelho, devido à sua cor característica.",
+    "font": "https://solarsystem.nasa.gov/planets/mars/overview/"
+  },
+  {
+    "question": "Qual é o nome do invento que foi criado pelos irmãos Wright em 1903?",
+    "response": "avião",
+    "explanation": "Os irmãos Wright inventaram o avião em 1903, fazendo o primeiro voo controlado com um aparelho mais pesado que o ar.",
+    "font": "https://www.britannica.com/topic/history-of-flight/The-first-airplane"
+  },
+  {
+    "question": "Qual é o nome do quarto planeta do sistema solar?",
+    "response": "marte",
+    "explanation": "Marte é o quarto planeta do sistema solar, depois de Mercúrio, Vênus e Terra.",
+    "font": "https://solarsystem.nasa.gov/planets/mars/overview/"
+  },
+  {
+    "question": "Qual é o nome do grupo de animais que inclui leões, tigres e leopardos?",
+    "response": "felinos",
+    "explanation": "Felinos é o nome dado ao grupo de animais que inclui leões, tigres, leopardos, gatos domésticos e outros felinos.",
+    "font": "https://www.nationalgeographic.org/encyclopedia/big-cats/"
+  },
+  {
+    "question": "Qual é o nome do elemento químico com o símbolo H?",
+    "response": "hidrogênio",
+    "explanation": "Hidrogênio é o nome do elemento químico com o símbolo H, e é o elemento mais abundante no universo.",
+    "font": "https://www.britannica.com/science/hydrogen"
+  },
+  {
+    "question": "Qual é o resultado da expressão 9 + 7 x 8 - 13?",
+    "response": "52",
+    "explanation": "9 + 7 x 8 - 13 = 9 + 56 - 13 = 52",
+    "font": ""
+  },
+  {
+    "question": "Qual o nome da linguagem que é falada na China?",
+    "response": "mandarin",
+    "explanation": "Na China a linguagem utilizada para a comunicação é chamada de Mandarin.",
+    "font": ""
+  },
+  {
+    "question": "No total, quantos planetas existem no sistema solar?",
+    "response": "8",
+    "explanation": "O sistema solar possui 8 planetas, sendo eles, em ordem a partir do Sol: Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno.",
+    "font": "https://solarsystem.nasa.gov/planets/overview/"
+  },
+  {
+    "question": "Quantos planetas são reconhecidos pela União Astronômica Internacional?",
+    "response": "5",
+    "explanation": "A União Astronômica Internacional reconheceu cinco planetas anões. São eles: Ceres, Plutão, Haumea, Makemake e Éris.",
+    "font": "https://solarsystem.nasa.gov/planets/dwarf-planets/"
+  },
+  {
+    "question": "Qual é o nome do país que é conhecido como a Terra do Sol Nascente?",
+    "response": "japão",
+    "explanation": "O Japão é frequentemente referido como a Terra do Sol Nascente, devido à sua localização geográfica no leste da Ásia.",
+    "font": "https://www.japan.go.jp/"
+  },
+  {
+    "question": "Qual é o nome do famoso pintor italiano da obra \"Mona Lisa\"?",
+    "response": "leonardo da vinci",
+    "explanation": "Leonardo da Vinci foi um dos mais importantes artistas e inventores da Renascença italiana, e é famoso por sua pintura \"Mona Lisa\".",
+    "font": "https://www.britannica.com/biography/Leonardo-da-Vinci"
+  },
+  {
+    "question": "Quantos anos tem um decênio?",
+    "response": "10",
+    "explanation": "Um decênio é um período de tempo de 10 anos.",
+    "font": "https://www.britannica.com/topic/decade"
+  },
+  {
+    "question": "Qual é o nome do sistema planetário que inclui a Terra?",
+    "response": "sistema solar",
+    "explanation": "O Sistema Solar é o sistema planetário que inclui a Terra, o Sol e todos os outros planetas e corpos celestes que orbitam o Sol.",
+    "font": "https://solarsystem.nasa.gov/solar-system/our-solar-system/overview/"
+  },
+  {
+    "question": "Qual é o nome do maior rio do mundo?",
+    "response": "amazonas",
+    "explanation": "O Rio Amazonas é o maior rio do mundo em volume de água, com mais de 7 milhões de km³ de água.",
+    "font": "https://www.britannica.com/place/Amazon-River"
+  },
+  {
+    "question": "Qual é o nome do animal que é o símbolo da Austrália?",
+    "response": "canguru",
+    "explanation": "O canguru é um dos animais mais famosos da Austrália, e é frequentemente usado como símbolo do país.",
+    "font": "https://www.australia.com/pt-pt/facts/animals/kangaroo-facts.html"
+  },
+  {
+    "question": "Qual é o nome do vulcão mais famoso do mundo?",
+    "response": "vesúvio",
+    "explanation": "O Vesúvio é um vulcão localizado na Itália e é famoso por sua erupção em 79 d.C., que destruiu as cidades de Pompeia e Herculano.",
+    "font": "https://www.britannica.com/place/Mount-Vesuvius"
+  },
+  {
+    "question": "Qual é o nome do elemento químico usado para fazer balões voarem?",
+    "response": "hidrogênio",
+    "explanation": "O hidrogênio é frequentemente usado para fazer balões voarem, embora seja altamente inflamável e possa ser perigoso.",
+    "font": "https://www.britannica.com/science/hydrogen"
+  },
+  {
+    "question": "Quantos países há no mundo?",
+    "response": "193",
+    "explanation": "Conforme a classificação da Organização das Nações Unidas (ONU), há atualmente 193 países no mundo, que são reconhecidos diplomaticamente de forma ampla pelas diversas instituições mundiais.",
+    "font": "https://mundoeducacao.uol.com.br/geografia/paises.htm"
+  },
+  {
+    "question": "qual é a capital da inglaterra?",
+    "response": "londres",
+    "explanation": "Londres é a capital e maior cidade da Inglaterra e do Reino Unido.",
+    "font": "https://pt.wikipedia.org/wiki/Londres"
+  },
+  {
+    "question": "qual é o número atômico do carbono?",
+    "response": "6",
+    "explanation": "O número atômico do carbono é 6, o que significa que ele tem 6 prótons em seu núcleo.",
+    "font": "https://pt.wikipedia.org/wiki/Carbono"
+  },
+  {
+    "question": "qual é o nome do menor continente do mundo?",
+    "response": "oceania",
+    "explanation": "A Oceania é considerada o menor continente do mundo, com cerca de 8,5 milhões de km².",
+    "font": "https://pt.wikipedia.org/wiki/Oceania"
+  },
+  {
+    "question": "qual é a velocidade da luz?",
+    "response": "299.792.458m/s",
+    "explanation": "A velocidade da luz no vácuo é de aproximadamente 299.792.458 metros por segundo.",
+    "font": "https://pt.wikipedia.org/wiki/Velocidade_da_luz"
+  },
+  {
+    "question": "Qual é o nome da personagem principal da série \"Friends\"?",
+    "response": "rachel green",
+    "explanation": "Rachel Green é uma das personagens principais da série de televisão americana 'Friends'.",
+    "font": "https://pt.wikipedia.org/wiki/Friends"
+  },
+  {
+    "question": "Qual é o nome da maior cachoeira do mundo?",
+    "response": "cataratas do iguaçu",
+    "explanation": "As Cataratas do Iguaçu são a maior cachoeira do mundo em termos de volume de água, com cerca de 1.500 metros de largura e 82 metros de altura.",
+    "font": "https://www.cataratasdoiguacu.com.br/"
+  },
+  {
+    "question": "Qual é o nome do país que é conhecido como o Berço da Civilização?",
+    "response": "iraque",
+    "explanation": "O Iraque é frequentemente referido como o Berço da Civilização, devido à sua importância histórica e arqueológica na Mesopotâmia.",
+    "font": "https://www.britannica.com/place/Iraq"
+  },
+  {
+    "question": "Qual é o nome da famosa estátua na Baía de Nova York?",
+    "response": "estátua da liberdade",
+    "explanation": "A Estátua da Liberdade é uma das estátuas mais famosas do mundo e é um símbolo icônico da liberdade e da democracia.",
+    "font": "https://www.nps.gov/stli/index.htm"
+  },
+  {
+    "question": "Qual é o nome do gás presente na atmosfera que é essencial para a vida das plantas?",
+    "response": "dióxido de carbono",
+    "explanation": "O dióxido de carbono é um gás presente na atmosfera que é essencial para a fotossíntese das plantas e, portanto, é um componente-chave do ciclo do carbono na Terra.",
+    "font": "https://www.nationalgeographic.org/encyclopedia/greenhouse-gas/"
+  },
+  {
+    "question": "Qual é o nome do país que é conhecido como a Terra do Sol da Meia-Noite?",
+    "response": "noruega",
+    "explanation": "A Noruega é frequentemente referida como a Terra do Sol da Meia-Noite, devido ao fenômeno natural que acontece no verão, quando o sol nunca se põe completamente.",
+    "font": "https://www.visitnorway.com/plan-your-trip/to-norway/getting-around/midnight-sun/"
+  },
+  {
+    "question": "Qual é o nome do famoso inventor da lâmpada elétrica?",
+    "response": "thomas edison",
+    "explanation": "Thomas Edison foi um famoso inventor e empresário americano, conhecido principalmente por sua invenção da lâmpada elétrica.",
+    "font": "https://www.britannica.com/biography/Thomas-Edison"
+  },
+  {
+    "question": "Qual é o nome do elemento químico usado como combustível nos aviões?",
+    "response": "querosene",
+    "explanation": "O querosene é um combustível líquido que é frequentemente usado como combustível em motores a jato de aviões comerciais.",
+    "font": "https://www.britannica.com/science/kerosene"
+  },
+  {
+    "question": "Qual é o nome da substância que dá a cor verde às plantas?",
+    "response": "clorofila",
+    "explanation": "A clorofila é a substância que dá a cor verde às plantas e é essencial para o processo de fotossíntese.",
+    "font": "https://www.britannica.com/science/chlorophyll"
+  },
+  {
+    "question": "Qual é o nome da substância química que é produzida pelo cérebro e causa a sensação de prazer?",
+    "response": "dopamina",
+    "explanation": "A dopamina é um neurotransmissor produzido pelo cérebro e é responsável por diversas funções, incluindo a regulação do humor e do movimento, além de causar a sensação de prazer.",
+    "font": "https://www.britannica.com/science/dopamine"
+  },
+  {
+    "question": "Qual é o nome do país que é conhecido como a Terra do Dragão?",
+    "response": "butão",
+    "explanation": "O Butão é frequentemente referido como a Terra do Dragão, devido à sua rica cultura e tradições que envolvem as criaturas míticas.",
+    "font": "https://www.tourism.gov.bt/"
+  },
+  {
+    "question": "Qual é o nome do famoso avião utilizado pelos irmãos Wright em seu primeiro voo bem-sucedido em 1903?",
+    "response": "wright flyer",
+    "explanation": "O Wright Flyer foi o primeiro avião bem-sucedido produzido pelos irmãos Orville e Wilbur Wright em 1903, marcando um avanço significativo na história da aviação.",
+    "font": "https://www.nps.gov/articles/wright-brothers-first-flight.htm"
+  },
+  {
+    "question": "Qual é o nome da linguagem de programação criada por Guido van Rossum?",
+    "response": "python",
+    "explanation": "Python é uma linguagem de programação de alto nível criada por Guido van Rossum em 1991, que é amplamente utilizada em diversos campos, incluindo ciência de dados, desenvolvimento web e inteligência artificial.",
+    "font": "https://www.python.org/"
+  },
+  {
+    "question": "Qual é o nome do instrumento musical que é considerado o rei dos instrumentos?",
+    "response": "órgão",
+    "explanation": "O órgão é um instrumento musical que é considerado o rei dos instrumentos devido à sua complexidade e riqueza sonora, além de sua história centenária na música clássica ocidental.",
+    "font": "https://www.britannica.com/art/organ-musical-instrument"
+  },
+  {
+    "question": "Qual é o nome do famoso autor de 'A Origem das Espécies'?",
+    "response": "charles darwin",
+    "explanation": "Charles Darwin foi um famoso autor e naturalista britânico que é mais conhecido por sua obra 'A Origem das Espécies', que introduziu a teoria da evolução das espécies.",
+    "font": "https://www.britannica.com/biography/Charles-Darwin"
+  },
+  {
+    "question": "Qual é o nome do maior rio do mundo em volume de água?",
+    "response": "amazonas",
+    "explanation": "O Rio Amazonas é o maior rio do mundo em volume de água, com uma bacia hidrográfica que cobre cerca de 7 milhões de km² na América do Sul.",
+    "font": "https://www.britannica.com/place/Amazon-River"
+  },
+  {
+    "question": "Qual é o nome do famoso pintor holandês que criou 'A Noite Estrelada' e outras obras icônicas?",
+    "response": "vincent van gogh",
+    "explanation": "Vincent van Gogh foi um famoso pintor holandês que é conhecido por sua obra icônica, 'A Noite Estrelada', além de outras pinturas que ajudaram a definir o movimento impressionista na arte.",
+    "font": "https://www.vangoghmuseum.nl/en"
+  },
+  {
+    "question": "Qual é o nome da famosa rua de comércio em Nova York, conhecida como 'a rua que nunca dorme'?",
+    "response": "times square",
+    "explanation": "Times Square é uma famosa rua de comércio em Nova York que é conhecida como 'a rua que nunca dorme' devido às suas luzes brilhantes, teatros e lojas que estão abertas 24 horas por dia.",
+    "font": "https://www.timessquarenyc.org/"
+  },
+  {
+    "question": "Qual é o nome da famosa artista mexicana conhecida por suas pinturas retratando flores e paisagens?",
+    "response": "frida kahlo",
+    "explanation": "Frida Kahlo foi uma famosa artista mexicana que é lembrada por suas pinturas vívidas e emocionais que retratam flores, paisagens e sua própria vida pessoal.",
+    "font": "https://www.fridakahlo.org/"
+  },
+  {
+    "question": "Qual é o nome do famoso evento esportivo que é realizado a cada quatro anos e reúne atletas de todo o mundo?",
+    "response": "jogos olímpicos",
+    "explanation": "Os Jogos Olímpicos são um evento esportivo global que é realizado a cada quatro anos e reúne atletas de todo o mundo para competir em diversas modalidades.",
+    "font": "https://www.olympic.org/"
+  },
+  {
+    "question": "Qual é o nome do dispositivo eletrônico portátil que é usado para fazer telefonemas, enviar mensagens e acessar a internet?",
+    "response": "smartphone",
+    "explanation": "Um smartphone é um dispositivo eletrônico portátil que é usado para fazer telefonemas, enviar mensagens de texto e acessar a internet, além de muitas outras funções.",
+    "font": "https://www.techopedia.com/definition/3035/smartphone"
+  },
+  {
+    "question": "Qual o nome dado à parte mais alta de uma montanha?",
+    "response": "pico",
+    "explanation": "O pico é o termo geralmente usado para se referir à parte mais alta de uma montanha, que geralmente tem uma forma pontiaguda e íngreme.",
+    "font": "https://www.britannica.com/science/summit-geography"
+  },
+  {
+    "question": "Qual o nome dado à junção de dois ou mais rios?",
+    "response": "confluência",
+    "explanation": "A confluência é o termo usado para se referir ao ponto em que dois ou mais rios se encontram e se juntam em um único rio.",
+    "font": "https://www.britannica.com/science/confluence-geography"
+  },
+  {
+    "question": "Qual o nome dado à matéria que é feita de apenas um tipo de átomo?",
+    "response": "elemento",
+    "explanation": "Um elemento é a matéria que é feita de apenas um tipo de átomo, que tem um número atômico único e uma configuração eletrônica específica.",
+    "font": "https://www.britannica.com/science/element-chemistry"
+  },
+  {
+    "question": "Qual o nome dado à unidade básica de estrutura e função dos seres vivos?",
+    "response": "célula",
+    "explanation": "A célula é a unidade básica de estrutura e função dos seres vivos, que contém os componentes necessários para a vida, como DNA, ribossomos e membranas celulares.",
+    "font": "https://www.britannica.com/science/cell-biology"
+  },
+  {
+    "question": "Qual o nome dado à medida da força com que a Terra atrai objetos em sua superfície?",
+    "response": "gravidade",
+    "explanation": "A gravidade é a medida da força com que a Terra atrai objetos em sua superfície, que é influenciada pela massa dos objetos e pela distância entre eles.",
+    "font": "https://www.britannica.com/science/gravity-physics"
+  },
+  {
+    "question": "Qual o nome dado à ciência que estuda a vida dos seres humanos no passado?",
+    "response": "arqueologia",
+    "explanation": "A arqueologia é a ciência que estuda a vida dos seres humanos no passado, utilizando métodos de escavação e análise de artefatos para entender a história e a evolução das sociedades humanas.",
+    "font": "https://www.britannica.com/science/archaeology"
+  },
+  {
+    "question": "Qual o nome dado à ciência que estuda o cérebro e o sistema nervoso?",
+    "response": "neurociência",
+    "explanation": "A neurociência é a ciência que estuda o cérebro e o sistema nervoso, incluindo suas funções, estruturas e processos, com o objetivo de entender como o cérebro controla o comportamento e a cognição.",
+    "font": "https://www.britannica.com/science/neuroscience"
+  },
+  {
+    "question": "Qual o nome dado à técnica de estudo do DNA que permite a amplificação de uma região específica do genoma?",
+    "response": "PCR",
+    "explanation": "A PCR (Reação em Cadeia da Polimerase) é uma técnica de estudo do DNA que permite a amplificação de uma região específica do genoma, permitindo a detecção de sequências específicas de DNA e a análise de mutações genéticas.",
+    "font": "https://www.nature.com/scitable/topicpage/polymerase-chain-reaction-pcr-14120683/"
+  },
+  {
+    "question": "Qual o nome dado à corrente marítima quente que flui ao longo da costa leste dos Estados Unidos?",
+    "response": "corrente do golfo",
+    "explanation": "A Corrente do Golfo é uma corrente marítima quente que flui ao longo da costa leste dos Estados Unidos, transportando água quente do Golfo do México para o Atlântico Norte.",
+    "font": "https://www.nationalgeographic.org/encyclopedia/gulf-stream/"
+  },
+  {
+    "question": "Qual o nome dado ao processo que as plantas usam para produzir oxigênio?",
+    "response": "fotossíntese",
+    "explanation": "A fotossíntese é o processo que as plantas usam para produzir oxigênio, convertendo energia solar, dióxido de carbono e água em açúcares e oxigênio.",
+    "font": "https://www.britannica.com/science/photosynthesis"
+  },
+  {
+    "question": "Qual o nome dado à região entre a atmosfera terrestre e o espaço exterior?",
+    "response": "estratosfera",
+    "explanation": "A estratosfera é a região entre a atmosfera terrestre e o espaço exterior, que contém a camada de ozônio e é importante para proteger a vida na Terra dos raios nocivos do sol.",
+    "font": "https://www.britannica.com/science/stratosphere"
+  },
+  {
+    "question": "Qual é o nome dado à ciência que estuda a vida no universo?",
+    "response": "astrobiologia",
+    "explanation": "A astrobiologia é a ciência que estuda a vida no universo, usando informações da astronomia, biologia, química e geologia para entender como a vida pode surgir e evoluir em diferentes planetas e ambientes.",
+    "font": "https://www.nasa.gov/astrobiology/"
+  },
+  {
+    "question": "Qual é o nome dado ao processo pelo qual as plantas absorvem água e nutrientes através das raízes?",
+    "response": "absorção radicular",
+    "explanation": "A absorção radicular é o processo pelo qual as plantas absorvem água e nutrientes através das raízes, utilizando processos como a osmose e a difusão para mover vários compostos através da membrana celular.",
+    "font": "https://www.britannica.com/science/absorption-chemistry"
+  },
+  {
+    "question": "Qual é o nome dado ao conjunto de técnicas usadas para criar imagens médicas detalhadas do interior do corpo?",
+    "response": "tomografia",
+    "explanation": "A tomografia é o conjunto de técnicas usadas para criar imagens médicas detalhadas do interior do corpo, utilizando raios X, ressonância magnética e outras tecnologias para produzir imagens tridimensionais de órgãos e tecidos.",
+    "font": "https://www.britannica.com/science/medical-imaging"
+  },
+  {
+    "question": "Qual é o nome dado ao conjunto de técnicas usadas para analisar grandes conjuntos de dados e descobrir padrões e tendências?",
+    "response": "análise de dados",
+    "explanation": "A análise de dados é o conjunto de técnicas usadas para analisar grandes conjuntos de dados e descobrir padrões e tendências, utilizando ferramentas como a visualização de dados, a mineração de dados e a modelagem estatística.",
+    "font": "https://www.sas.com/en_us/what-is/data-analysis.html"
+  },
+  {
+    "question": "Qual é o nome dado ao processo através do qual os animais se reproduzem sem a necessidade de um parceiro?",
+    "response": "reprodução assexuada",
+    "explanation": "A reprodução assexuada é o processo através do qual os animais se reproduzem sem a necessidade de um parceiro, utilizando métodos como a divisão celular e a produção de clones para gerar nova descendência.",
+    "font": "https://www.britannica.com/science/asexual-reproduction"
+  },
+  {
+    "question": "Qual é o nome dado ao processo através do qual os organismos que vivem na terra são decompostos em seus componentes químicos básicos?",
+    "response": "decomposição",
+    "explanation": "A decomposição é o processo através do qual os organismos que vivem na terra são decompostos em seus componentes químicos básicos, através da ação de microrganismos como bactérias e fungos.",
+    "font": "https://www.britannica.com/science/decomposition-chemistry"
+  },
+  {
+    "question": "Qual é o nome dado à região gelada do mundo que se estende pela Ártico, Groenlândia, Escandinávia e Sibéria?",
+    "response": "tundra",
+    "explanation": "A tundra é a região gelada do mundo que se estende pela Ártico, Groenlândia, Escandinávia e Sibéria, caracterizada por uma vegetação rasteira, permafrost e invernos severos.",
+    "font": "https://www.britannica.com/science/tundra"
+  },
+  {
+    "question": "Qual é o nome dado ao elemento químico encontrado em diamantes e grafites?",
+    "response": "carbono",
+    "explanation": "O carbono é o elemento químico encontrado em diamantes e grafites, sendo um dos elementos fundamentais da vida e encontrando-se em numerosos compostos orgânicos e inorgânicos.",
+    "font": "https://www.britannica.com/science/carbon-chemical-element"
+  },
+  {
+    "question": "Qual é o nome dado ao material químico que é usado para acelerar reações químicas sem ser consumido na reação?",
+    "response": "catalisador",
+    "explanation": "Um catalisador é o material químico que é usado para acelerar reações químicas sem ser consumido na reação, trabalhando aumentando a taxa de reação ou alterando a rota molecular.",
+    "font": "https://www.britannica.com/science/catalyst"
+  },
+  {
+    "question": "Qual é o nome dado ao processo de remoção de sal da água do mar para torná-la potável?",
+    "response": "dessalinização",
+    "explanation": "A dessalinização é o processo de remoção de sal da água do mar para torná-la potável, utilizando técnicas como a osmose reversa, a destilação e a evaporação para remover o excesso de sais e minerais.",
+    "font": "https://www.britannica.com/technology/desalination"
+  },
+  {
+    "question": "Qual é o nome dado à massa de ar que se desloca em uma direção específica sobre a superfície da Terra?",
+    "response": "vento",
+    "explanation": "O vento é a massa de ar que se desloca em uma direção específica sobre a superfície da Terra, influenciando o clima e o clima em diferentes regiões do mundo.",
+    "font": "https://www.britannica.com/science/wind-weather"
+  },
+  {
+    "question": "Qual é o nome dado ao processo de conversão de energia cinética em energia elétrica?",
+    "response": "geração de energia",
+    "explanation": "A geração de energia é o processo de conversão de energia cinética em energia elétrica, utilizado em usinas hidrelétricas, usinas eólicas, usinas solares e outras instalações de energia renovável e não renovável.",
+    "font": "https://www.power-technology.com/renewables/generation/"
+  },
+  {
+    "question": "Qual é o nome dado ao processo químico que ocorre nos músculos e produz energia para o corpo?",
+    "response": "respiração celular",
+    "explanation": "A respiração celular é o processo químico que ocorre nos músculos e produz energia para o corpo, convertendo glicose e oxigênio em dióxido de carbono, água e ATP, que é usado como fonte de energia para o corpo.",
+    "font": "https://www.britannica.com/science/respiration-cellular-process"
+  },
+  {
+    "question": "Qual é o nome dado ao processo de produção de novas células em um organismo?",
+    "response": "divisão celular",
+    "explanation": "A divisão celular é o processo de produção de novas células em um organismo, sendo importante para a regeneração de tecidos, a reprodução e o crescimento.",
+    "font": "https://www.britannica.com/science/cell-division"
+  },
+  {
+    "question": "Qual é o nome dado ao processo natural que ocorre à noite e converte dióxido de carbono em oxigênio?",
+    "response": "respiração das plantas",
+    "explanation": "A respiração das plantas é o processo natural que ocorre à noite e converte dióxido de carbono em oxigênio, permitindo que as plantas respirem e cresçam durante a noite.",
+    "font": "https://www.scientificamerican.com/article/how-do-plants-breathe-at/"
+  },
+  {
+    "question": "Qual é o nome dado ao processo de mudança de um estado líquido para um estado gasoso?",
+    "response": "evaporação",
+    "explanation": "A evaporação é o processo de mudança de um estado líquido para um estado gasoso, ocorrendo quando as moléculas de um líquido ganham energia suficiente para escapar e se tornar moléculas de vapor.",
+    "font": "https://www.britannica.com/science/evaporation-chemistry"
+  },
+  {
+    "question": "Qual é o nome dado à distância percorrida por uma onda em um único ciclo?",
+    "response": "comprimento de onda",
+    "explanation": "O comprimento de onda é a distância percorrida por uma onda em um único ciclo, sendo importante para determinar a frequência e a energia da onda.",
+    "font": "https://www.britannica.com/science/wavelength-physics"
+  },
+  {
+    "question": "Qual é o nome dado à propriedade dos metais que permite que sejam moldados em diferentes formas?",
+    "response": "maleabilidade",
+    "explanation": "A maleabilidade é a propriedade dos metais que permite que sejam moldados em diferentes formas, sem se quebrarem ou perderem sua força.",
+    "font": "https://www.britannica.com/science/malleability"
+  },
+  {
+    "question": "Qual é o nome dado ao processo de separação de um líquido em seus componentes através do uso de diferentes temperaturas?",
+    "response": "destilação",
+    "explanation": "A destilação é o processo de separação de um líquido em seus componentes através do uso de diferentes temperaturas, permitindo a separação de líquidos com diferentes pontos de ebulição ou composições químicas.",
+    "font": "https://www.britannica.com/science/distillation"
+  },
+  {
+    "question": "Qual é o nome dado à ciência que estuda o desenvolvimento e o crescimento de organismos vivos?",
+    "response": "embriologia",
+    "explanation": "A embriologia é a ciência que estuda o desenvolvimento e o crescimento de organismos vivos, desde a fertilização até a formação de órgãos e sistemas corporais.",
+    "font": "https://www.britannica.com/science/embryology"
+  },
+  {
+    "question": "Qual é o nome dado à ciência que estuda o significado e o uso das palavras em diferentes línguas?",
+    "response": "semântica",
+    "explanation": "A semântica é a ciência que estuda o significado e o uso das palavras em diferentes línguas, sendo importante para entender a estrutura e a evolução das línguas.",
+    "font": "https://www.britannica.com/science/semantics-linguistics"
+  },
+  {
+    "question": "Qual é a capital da Austrália?",
+    "response": "canberra",
+    "explanation": "A capital da Austrália é Canberra, localizada no Território da Capital Australiana.",
+    "font": "https://www.australia.gov.au/about-australia/our-country/capital-cities"
+  },
+  {
+    "question": "Qual é o símbolo químico do oxigênio?",
+    "response": "o",
+    "explanation": "O símbolo químico do oxigênio é O.",
+    "font": "https://www.britannica.com/science/oxygen"
+  },
+  {
+    "question": "Qual foi o ano da primeira transmissão de TV no Brasil?",
+    "response": "1950",
+    "explanation": "A primeira transmissão de TV no Brasil ocorreu em 1950, na cidade de São Paulo.",
+    "font": "https://memoria.ebc.com.br/radioagencia-mundo/article/2010-09-18/ha-60-anos-era-realizada-primeira-transmissao-de-tv-no-brasil"
+  },
+  {
+    "question": "Que país foi o berço da civilização asteca?",
+    "response": "méxico",
+    "explanation": "O México foi o berço da civilização asteca, que floresceu na região da América Central e do México entre os séculos XIV e XVI.",
+    "font": "https://www.britannica.com/place/Mexico"
+  },
+  {
+    "question": "Qual é o nome do esporte que é praticado em uma pista oval e com patins?",
+    "response": "patinação de velocidade",
+    "explanation": "A patinação de velocidade é o esporte que é praticado em uma pista oval e com patins, sendo um dos esportes de inverno mais populares.",
+    "font": "https://www.britannica.com/sports/speed-skating"
+  },
+  {
+    "question": "Qual foi o ano da queda do Muro de Berlim?",
+    "response": "1989",
+    "explanation": "A queda do Muro de Berlim ocorreu em 1989, marcando o fim da Guerra Fria e da divisão da Alemanha.",
+    "font": "https://www.britannica.com/topic/Berlin-Wall"
+  },
+  {
+    "question": "Qual é o símbolo químico do ferro?",
+    "response": "fe",
+    "explanation": "O símbolo químico do ferro é Fe.",
+    "font": "https://www.britannica.com/science/iron-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do carbono?",
+    "response": "c",
+    "explanation": "O símbolo químico do carbono é C.",
+    "font": "https://www.britannica.com/science/carbon-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do ouro?",
+    "response": "au",
+    "explanation": "O símbolo químico do ouro é Au.",
+    "font": "https://www.britannica.com/science/gold-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico da prata?",
+    "response": "ag",
+    "explanation": "O símbolo químico da prata é Ag.",
+    "font": "https://www.britannica.com/science/silver-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do hidrogênio?",
+    "response": "h",
+    "explanation": "O símbolo químico do hidrogênio é H.",
+    "font": "https://www.britannica.com/science/hydrogen-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do mercúrio?",
+    "response": "hg",
+    "explanation": "O símbolo químico do mercúrio é Hg.",
+    "font": "https://www.britannica.com/science/mercury-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do sódio?",
+    "response": "na",
+    "explanation": "O símbolo químico do sódio é Na.",
+    "font": "https://www.britannica.com/science/sodium-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do cloro?",
+    "response": "cl",
+    "explanation": "O símbolo químico do cloro é Cl.",
+    "font": "https://www.britannica.com/science/chlorine-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do cálcio?",
+    "response": "ca",
+    "explanation": "O símbolo químico do cálcio é Ca.",
+    "font": "https://www.britannica.com/science/calcium-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do enxofre?",
+    "response": "s",
+    "explanation": "O símbolo químico do enxofre é S.",
+    "font": "https://www.britannica.com/science/sulfur-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do carbonato?",
+    "response": "co3",
+    "explanation": "O símbolo químico do carbonato é CO3.",
+    "font": "https://www.britannica.com/science/carbonate"
+  },
+  {
+    "question": "Qual é o símbolo químico do potássio?",
+    "response": "k",
+    "explanation": "O símbolo químico do potássio é K.",
+    "font": "https://www.britannica.com/science/potassium-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do clorofórmio?",
+    "response": "chcl3",
+    "explanation": "O símbolo químico do clorofórmio é CHCl3.",
+    "font": "https://www.britannica.com/science/chloroform"
+  },
+  {
+    "question": "Qual é o símbolo químico do fósforo?",
+    "response": "p",
+    "explanation": "O símbolo químico do fósforo é P.",
+    "font": "https://www.britannica.com/science/phosphorus-chemical-element"
+  },
+  {
+    "question": "Qual é o símbolo químico do dióxido de carbono?",
+    "response": "co2",
+    "explanation": "O símbolo químico do dióxido de carbono é CO2.",
+    "font": "https://www.britannica.com/science/carbon-dioxide"
+  },
+  {
+    "question": "Qual é o símbolo químico do zinco?",
+    "response": "zn",
+    "explanation": "O símbolo químico do zinco é Zn.",
+    "font": "https://www.britannica.com/science/zinc"
+  },
+  {
+    "question": "De que país é a Torre Eiffel?",
+    "response": "frança",
+    "explanation": "A Torre Eiffel fica na França, mais especificamente em Paris.",
+    "font": "https://www.toureiffel.paris/pt-br/historia-e-situacao/descricao-e-historia.html"
+  },
+  {
+    "question": "Qual é o nome do diretor da trilogia O Senhor dos Anéis?",
+    "response": "peter jackson",
+    "explanation": "Peter Jackson é o diretor da trilogia cinematográfica O Senhor dos Anéis, baseada na obra de J.R.R. Tolkien.",
+    "font": "https://www.britannica.com/biography/Peter-Jackson"
+  },
+  {
+    "question": "Qual é o nome do personagem principal do livro Dom Quixote?",
+    "response": "quixote",
+    "explanation": "O nome do personagem principal do livro Dom Quixote é Quixote, ou Alonso Quixano.",
+    "font": "https://www.britannica.com/topic/Don-Quixote-character"
+  },
+  {
+    "question": "Qual é o nome do navegador português que chegou ao Brasil em 1500?",
+    "response": "pedro álvares cabral",
+    "explanation": "Pedro Álvares Cabral foi o navegador português que chegou ao Brasil em 1500, em uma expedição de descoberta.",
+    "font": "https://www.britannica.com/biography/Pedro-Alvares-Cabral"
+  },
+  {
+    "question": "Qual foi o nome do primeiro ser vivo a ser colocado em órbita?",
+    "response": "laika",
+    "explanation": "Laika foi o nome do primeiro ser vivo a ser colocado em órbita, em um voo espacial da União Soviética em 1957.",
+    "font": "https://www.britannica.com/topic/Laika"
+  },
+  {
+    "question": "Qual é o nome da personagem principal do livro Alice no País das Maravilhas?",
+    "response": "alice",
+    "explanation": "O nome da personagem principal do livro Alice no País das Maravilhas é Alice.",
+    "font": "https://www.britannica.com/topic/Alice-in-Wonderland-novel-by-Carroll"
+  },
+  {
+    "question": "Qual é o nome do país que é o maior produtor de petróleo do mundo?",
+    "response": "arábia saudita",
+    "explanation": "A Arábia Saudita é o país que é o maior produtor de petróleo do mundo.",
+    "font": "https://www.britannica.com/place/Saudi-Arabia"
+  },
+  {
+    "question": "Qual é o maior país do mundo?",
+    "response": "rússia",
+    "explanation": "O maior país do mundo é a Rússia, com uma área de mais de 17 milhões de km².",
+    "font": "https://www.worldometers.info/geography/largest-countries-in-the-world/"
+  },
+  {
+    "question": "Qual é o menor país do mundo?",
+    "response": "vaticano",
+    "explanation": "O menor país do mundo é o Vaticano, com uma área de apenas 0,44 km².",
+    "font": "https://www.worldometers.info/geography/smallest-countries-in-the-world/"
+  },
+  {
+    "question": "Qual é o país mais populoso do mundo?",
+    "response": "china",
+    "explanation": "A China é o país mais populoso do mundo, com mais de 1,4 bilhão de habitantes.",
+    "font": "https://www.worldometers.info/world-population/population-by-country/"
+  },
+  {
+    "question": "Qual é o país com a maior área agrícola do mundo?",
+    "response": "brasil",
+    "explanation": "O Brasil é o país com a maior área agrícola do mundo, com cerca de 330 milhões de hectares de terras agricultáveis.",
+    "font": "https://www.embrapa.br/en/tema-agricultura-no-brasil/area-agriculturavel"
+  },
+  {
+    "question": "Qual é o país com a maior área territorial da América do Sul?",
+    "response": "brasil",
+    "explanation": "O Brasil é o país com a maior área territorial da América do Sul, com mais de 8,5 milhões de km².",
+    "font": "https://www.worldometers.info/geography/largest-countries-in-south-america/"
+  },
+  {
+    "question": "Qual é o país com a maior população da Europa?",
+    "response": "rússia",
+    "explanation": "A Rússia é o país com a maior população da Europa, com mais de 144 milhões de habitantes.",
+    "font": "https://www.worldometers.info/world-population/population-by-country/"
+  },
+  {
+    "question": "Qual é o país com a maior taxa de desmatamento do mundo?",
+    "response": "brasil",
+    "explanation": "O Brasil é um dos países com a maior taxa de desmatamento do mundo, devido à expansão agropecuária, mineração e outras atividades econômicas.",
+    "font": "https://news.mongabay.com/brazil/"
+  },
+  {
+    "question": "Qual é o país com o maior número de Patrimônios Mundiais da UNESCO?",
+    "response": "itália",
+    "explanation": "A Itália é o país com o maior número de Patrimônios Mundiais da UNESCO, sendo reconhecidos 55 sítios.",
+    "font": "https://whc.unesco.org/en/statesparties/it/"
+  },
+  {
+    "question": "Qual é o país com a maior população muçulmana do mundo?",
+    "response": "indonésia",
+    "explanation": "A Indonésia é o país com a maior população muçulmana do mundo, com mais de 229 milhões de muçulmanos.",
+    "font": "https://www.worldometers.info/world-population/population-by-country/"
+  },
+  {
+    "question": "Em que país ocorreu o acidente de Chernobyl?",
+    "response": "ucrânia",
+    "explanation": "O acidente de Chernobyl ocorreu na Usina Nuclear de Chernobyl, localizada na Ucrânia.",
+    "font": "https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
+  },
+  {
+    "question": "Em que ano ocorreu o acidente de Chernobyl?",
+    "response": "1986",
+    "explanation": "O acidente de Chernobyl ocorreu em 26 de abril de 1986.",
+    "font": "https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx"
+  },
+  {
+    "question": "Qual é a capital da Rússia?",
+    "response": "moscou",
+    "explanation": "Moscou é a capital da Rússia, localizada no extremo oeste do país.",
+    "font": "https://www.britannica.com/place/Moscow"
+  },
+  {
+    "question": "Qual era o nome da banda de John Lennon antes dos Beatles?",
+    "response": "the quarrymen",
+    "explanation": "Antes de formar os Beatles, John Lennon tocava em uma banda chamada The Quarrymen, que foi fundada em 1956.",
+    "font": "https://www.beatlesbible.com/people/john-lennon/groups/the-quarrymen/"
+  },
+  {
+    "question": "Qual é o maior estado do Brasil em área territorial?",
+    "response": "amazonas",
+    "explanation": "O estado do Amazonas é o maior estado do Brasil, com uma área territorial de mais de 1,5 milhão de km².",
+    "font": "https://www.ibge.gov.br/geociencias/organizacao-do-territorio/tipologias-do-territorio/15769-unidades-federativas.html?=&t=o-estado-mais-extenso-do-brasil-e-o-amazonas"
+  },
+  {
+    "question": "Qual foi o primeiro filme a ganhar o Oscar de Melhor Animação?",
+    "response": "shrek",
+    "explanation": "Shrek foi o primeiro filme a ganhar o Oscar de Melhor Animação, em 2002.",
+    "font": "https://www.oscars.org/oscars/ceremonies/2002"
+  },
+  {
+    "question": "Qual é o prato típico mais conhecido da culinária italiana?",
+    "response": "pizza",
+    "explanation": "A pizza é o prato típico mais conhecido da culinária italiana, sendo originária da cidade de Nápoles.",
+    "font": "https://www.britannica.com/topic/pizza"
+  },
+  {
+    "question": "Qual é a comida típica do Japão?",
+    "response": "sushi",
+    "explanation": "Sushi é uma das comidas típicas do Japão, que consiste em arroz temperado com vinagre, peixe cru e outros ingredientes variados.",
+    "font": "https://www.japan-guide.com/e/e2046.html"
+  },
+  {
+    "question": "Qual é a comida típica da Espanha?",
+    "response": "paella",
+    "explanation": "Paella é uma das comidas típicas da Espanha, um prato de arroz com frutos do mar, carnes e outros ingredientes variados.",
+    "font": "https://www.spain.info/en/top-10/platos-tipicos-de-espana.html"
+  },
+  {
+    "question": "Qual é a comida típica da Itália?",
+    "response": "espaguete à bolonhesa",
+    "explanation": "Espaguete à bolonhesa é uma das comidas típicas da Itália, um prato de macarrão com molho de tomate, carne moída e outros ingredientes variados.",
+    "font": "https://www.tasteatlas.com/spaghetti-alla-bolognese"
+  },
+  {
+    "question": "Qual é a comida típica do México?",
+    "response": "taco",
+    "explanation": "Taco é uma das comidas típicas do México, uma tortilha de milho ou trigo recheada com carne, cebola, salsa e outros ingredientes variados.",
+    "font": "https://theculturetrip.com/north-america/mexico/articles/an-introduction-to-eating-tacos-in-mexico/"
+  },
+  {
+    "question": "Qual é a comida típica da França?",
+    "response": "croissant",
+    "explanation": "Croissant é uma das comidas típicas da França, um pão folhado em formato de meia-lua, crocante por fora e macio por dentro.",
+    "font": "https://theculturetrip.com/europe/france/articles/the-history-of-the-croissant/"
+  },
+  {
+    "question": "Qual é a comida típica da Índia?",
+    "response": "curry",
+    "explanation": "Curry é uma das comidas típicas da Índia, um prato de carne, peixe ou vegetais com um molho temperado e picante.",
+    "font": "https://www.britannica.com/topic/curry"
+  },
+  {
+    "question": "Qual é a comida típica da Argentina?",
+    "response": "asado",
+    "explanation": "Asado é uma das comidas típicas da Argentina, um churrasco preparado com carne bovina, linguiça e outros tipos de carne, assado em fogo baixo.",
+    "font": "https://theculturetrip.com/south-america/argentina/articles/a-guide-to-argentine-asado/"
+  },
+  {
+    "question": "Qual é a comida típica da Grécia?",
+    "response": "gyro",
+    "explanation": "Gyro é uma das comidas típicas da Grécia, um prato de carne (geralmente porco) assado em um espeto vertical, servido em um pão pita com cebola, tomate e tzatziki.",
+    "font": "https://www.greece-is.com/the-gyro-a-greek-classic/"
+  },
+  {
+    "question": "Qual é a comida típica do Brasil?",
+    "response": "feijoada",
+    "explanation": "Feijoada é uma das comidas típicas do Brasil, um prato de feijão preto com carnes (como linguiça, carne seca e costelinha de porco), servido com arroz, couve e farinha.",
+    "font": "https://www.britannica.com/topic/feijoada"
+  }
+]
